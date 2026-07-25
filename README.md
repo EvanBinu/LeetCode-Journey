@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0383-ransom-note](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0383-ransom-note/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0383-ransom-note](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0383-ransom-note/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
