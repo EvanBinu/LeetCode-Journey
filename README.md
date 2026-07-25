@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0169-majority-element/) | Easy |
+| [0283-move-zeroes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0283-move-zeroes/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
