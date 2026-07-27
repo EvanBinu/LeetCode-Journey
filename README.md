@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,4 +124,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 <!---LeetCode Topics End-->
