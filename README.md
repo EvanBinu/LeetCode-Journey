@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -120,5 +121,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0036-valid-sudoku/) | Medium |
 | [0054-spiral-matrix](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 <!---LeetCode Topics End-->
