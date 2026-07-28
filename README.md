@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1652-defuse-the-bomb/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1652-defuse-the-bomb](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 ## Binary Search
