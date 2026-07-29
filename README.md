@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1652-defuse-the-bomb/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 ## Binary Search
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0881-boats-to-save-people/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
