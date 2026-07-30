@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2401-longest-nice-subarray](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2401-longest-nice-subarray/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
+| [2401-longest-nice-subarray](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2401-longest-nice-subarray/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2401-longest-nice-subarray](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2401-longest-nice-subarray/) | Medium |
 <!---LeetCode Topics End-->
