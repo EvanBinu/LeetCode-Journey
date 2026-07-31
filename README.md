@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0036-valid-sudoku/) | Medium |
+| [0076-minimum-window-substring](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0076-minimum-window-substring/) | Hard |
 | [0169-majority-element](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0383-ransom-note/) | Easy |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0038-count-and-say](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0038-count-and-say/) | Medium |
+| [0076-minimum-window-substring](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0076-minimum-window-substring/) | Hard |
 | [0205-isomorphic-strings](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
