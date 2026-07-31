@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0075-sort-colors](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0169-majority-element/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
