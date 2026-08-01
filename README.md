@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0036-valid-sudoku](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0036-valid-sudoku/) | Medium |
+| [0042-trapping-rain-water](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0059-spiral-matrix-ii/) | Medium |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0011-container-with-most-water/) | Medium |
+| [0042-trapping-rain-water](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0053-maximum-subarray/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -200,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/EvanBinu/LeetCode-Journey/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
