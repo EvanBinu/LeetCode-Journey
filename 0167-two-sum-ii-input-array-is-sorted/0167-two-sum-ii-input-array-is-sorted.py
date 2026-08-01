@@ -3,15 +3,12 @@ class Solution:
         n = len(numbers)
         l = 0
         r = n - 1
-        s = numbers[r] + numbers[l]
         while l < r:
-            if s > target:
-                s-=numbers[r]
-                r-=1
-                s+=numbers[r]
-            elif s < target:
-                s-=numbers[l]
-                l+=1
-                s+=numbers[l]
-            else:
+            s = numbers[r] + numbers[l]
+            if s == target:
                 return [l+1,r+1]
+            elif s < target:
+                l+=1
+            else:
+                r-=1
+                
