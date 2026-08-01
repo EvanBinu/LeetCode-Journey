@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0009-palindrome-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/EvanBinu/LeetCode-Journey/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
