@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0075-sort-colors](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0283-move-zeroes/) | Easy |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0169-majority-element/) | Easy |
 | [0881-boats-to-save-people](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0977-squares-of-a-sorted-array/) | Easy |
