@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0169-majority-element/) | Easy |
+| [0204-count-primes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0283-move-zeroes/) | Easy |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0009-palindrome-number/) | Easy |
 | [0202-happy-number](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0202-happy-number/) | Easy |
+| [0204-count-primes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0204-count-primes/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/EvanBinu/LeetCode-Journey/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -215,9 +217,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0204-count-primes/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/EvanBinu/LeetCode-Journey/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
