@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
