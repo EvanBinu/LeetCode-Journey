@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0567-permutation-in-string/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2401-longest-nice-subarray/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
