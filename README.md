@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0009-palindrome-number/) | Easy |
+| [0070-climbing-stairs](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0204-count-primes/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0070-climbing-stairs/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -327,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
