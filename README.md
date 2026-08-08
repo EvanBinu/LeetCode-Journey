@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Prefix Sum
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0169-majority-element/) | Easy |
 | [0881-boats-to-save-people](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
