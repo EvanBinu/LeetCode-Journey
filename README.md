@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0496-next-greater-element-i](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0567-permutation-in-string/) | Medium |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0455-assign-cookies/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0494-target-sum/) | Medium |
+| [0496-next-greater-element-i](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
 | [0518-coin-change-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0518-coin-change-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0155-min-stack/) | Medium |
+| [0496-next-greater-element-i](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
