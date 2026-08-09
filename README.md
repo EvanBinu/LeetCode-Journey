@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0036-valid-sudoku/) | Medium |
 | [0076-minimum-window-substring](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0076-minimum-window-substring/) | Hard |
+| [0139-word-break](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0205-isomorphic-strings/) | Easy |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0038-count-and-say/) | Medium |
 | [0076-minimum-window-substring](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0125-valid-palindrome/) | Easy |
+| [0139-word-break](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0135-candy/) | Hard |
+| [0139-word-break](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0139-word-break/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0198-house-robber/) | Medium |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0070-climbing-stairs/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0139-word-break](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0322-coin-change/) | Medium |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0139-word-break/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -395,4 +400,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0062-unique-paths/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
