@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0518-coin-change-ii/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -377,12 +379,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0518-coin-change-ii/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0494-target-sum/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
