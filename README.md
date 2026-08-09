@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0322-coin-change](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0070-climbing-stairs/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0494-target-sum/) | Medium |
@@ -358,4 +361,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0494-target-sum/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
