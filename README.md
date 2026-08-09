@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0036-valid-sudoku/) | Medium |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0169-majority-element/) | Easy |
