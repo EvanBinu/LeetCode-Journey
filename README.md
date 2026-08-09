@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0038-count-and-say/) | Medium |
 | [0072-edit-distance](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0076-minimum-window-substring/) | Hard |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
@@ -424,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0139-word-break/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
