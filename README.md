@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0455-assign-cookies/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0518-coin-change-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0518-coin-change-ii/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0518-coin-change-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,4 +372,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
