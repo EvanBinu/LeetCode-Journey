@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0009-palindrome-number/) | Easy |
+| [0062-unique-paths](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0204-count-primes/) | Medium |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0070-climbing-stairs/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0198-house-robber/) | Medium |
@@ -379,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1143-longest-common-subsequence/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
