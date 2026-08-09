@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0283-move-zeroes/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0633-sum-of-square-numbers](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0070-climbing-stairs/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
