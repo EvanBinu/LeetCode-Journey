@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0455-assign-cookies/) | Easy |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0198-house-robber/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Greedy
@@ -335,4 +337,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0070-climbing-stairs/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
