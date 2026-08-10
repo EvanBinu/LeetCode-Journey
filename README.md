@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0724-find-pivot-index](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0739-daily-temperatures/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/EvanBinu/LeetCode-Journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0739-daily-temperatures/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
