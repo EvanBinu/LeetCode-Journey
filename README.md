@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0283-move-zeroes/) | Easy |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0455-assign-cookies/) | Easy |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -501,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
