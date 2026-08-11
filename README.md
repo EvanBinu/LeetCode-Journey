@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0155-min-stack](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -505,8 +509,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
