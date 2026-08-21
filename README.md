@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0322-coin-change/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0455-assign-cookies/) | Easy |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0383-ransom-note/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1394-find-lucky-integer-in-an-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -335,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1046-last-stone-weight/) | Easy |
 ## Monotonic Queue
@@ -525,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -541,4 +548,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
