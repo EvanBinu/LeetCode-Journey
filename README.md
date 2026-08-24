@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0076-minimum-window-substring/) | Hard |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0049-group-anagrams/) | Medium |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0202-happy-number/) | Easy |
