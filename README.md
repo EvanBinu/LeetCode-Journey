@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0525-contiguous-array/) | Medium |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0567-permutation-in-string](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0567-permutation-in-string/) | Medium |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1394-find-lucky-integer-in-an-array](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/EvanBinu/LeetCode-Journey/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/EvanBinu/LeetCode-Journey/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
